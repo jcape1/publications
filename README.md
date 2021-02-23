@@ -1,3 +1,3 @@
 # publications
 
-This folder contains final versions of published papers that have all been peer-reviewed.
+This folder contains final, published versions of peer-reviewed papers.
